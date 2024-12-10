@@ -40,65 +40,65 @@ highlights:
       - title: JPDB
         icon: /ico/jpdb.png
         details: Site for flashcards, Japanese media statistics and mining tools.
-        link: https://neongoo.ru/guide/jpdb.html
+        link: https://Kotowari/guide/jpdb.html
 
       - title: Yomitan
         icon: /ico/yomitan.svg
         details: Convenient dictionary lookups and mining.
-        link: https://neongoo.ru/software/yomitan.html
+        link: https://Kotowari/software/yomitan.html
 
       - title: Anki
         icon: /ico/anki.svg
         details: The application for effective memorization of words with limitless capabilities.
-        link: https://neongoo.ru/software/anki.html
+        link: https://Kotowari/software/anki.html
 
       - title: JL
         icon: /ico/jl.ico
         details: An app for lookups and mining while watching anime \ gaming full screen.
-        link: https://neongoo.ru/software/jl.html
+        link: https://Kotowari/software/jl.html
 
       - title: MPV
         icon: /ico/mpv-icon.png
         details: A video player for mining and word lookup.
-        link: https://neongoo.ru/software/mpv.html
+        link: https://Kotowari/software/mpv.html
 
       - title: asbplayer
         icon: /ico/asb.png
         details: A video player for mining and word lookup for videos inside your browser.
-        link: https://neongoo.ru/software/asbplayer.html
+        link: https://Kotowari/software/asbplayer.html
 
       - title: Subtitles
         icon: /ico/subtitles.svg
         details: Apps for working with subtitles.
-        link: https://neongoo.ru/software/subtitles.html
+        link: https://Kotowari/software/subtitles.html
 
       - title: Videogames and VNs
         icon: /ico/videogame.svg
         details: Learn how to download VNs and extract text from them.
-        link: https://neongoo.ru/software/vn.html
+        link: https://Kotowari/software/vn.html
 
 
       - title: ActivityWatch
         icon: /ico/aw.png
         details: Track your time on PC.
-        link: https://neongoo.ru/software/activitywatch.html
+        link: https://Kotowari/software/activitywatch.html
 
       - title: OCR Tools
         icon: /ico/ocr.svg
         details: Software for scanning text from the screen.
-        link: https://neongoo.ru/software/ocr-tools.html
+        link: https://Kotowari/software/ocr-tools.html
 
 
       - title: jidoujisho
         icon: /ico/jidoujisho.png
         details: Almighty Android app allows you to read, watch, play and whatever else with words lookup and mining.
-        link: https://neongoo.ru/software/jidoujisho.html
+        link: https://Kotowari/software/jidoujisho.html
 
 
       - title: Resources
         icon: /assets/image/box.svg
         details: A collection of all kinds of sources for Japanese media and language information.
-        link: https://neongoo.ru/resources.html
+        link: https://Kotowari/resources.html
 
 
 

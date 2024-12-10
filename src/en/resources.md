@@ -7,7 +7,7 @@ Date:
 ReadingTime: 
 ---
 
-All kinds of resources with content in or for Japanese. If you have any suggestions, inform me through [TG](https://t.me/kurutteiru) or [GitHub](https://github.com/neongooro/neongooru). I advise you to read everything, there may be interesting things for you.
+All kinds of resources with content in or for Japanese. If you have any suggestions, inform me through [TG](https://t.me/kurutteiru) or [GitHub](https://github.com/neongooro/kotowari). I advise you to read everything, there may be interesting things for you.
 
 -----
 

@@ -26,7 +26,7 @@ export default hopeTheme({
 
   logo: "/ico/logo.png",
 
-  repo: "neongooroo/neongooru",
+  repo: "neongooroo/kotowari",
 
   docsDir: "src",
 
@@ -107,7 +107,7 @@ export default hopeTheme({
     },
     comment: {
       provider: "Giscus",
-      repo: "neongooroo/neongooru",
+      repo: "neongooroo/kotowari",
       repoId: "R_kgDOLRM99A",
       category: "General",
       categoryId: "DIC_kwDOLRM99M4Cdyoi",

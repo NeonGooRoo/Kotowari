@@ -14,5 +14,5 @@ ReadingTime: 10
 ---
 🚧 Information about MEXT (in the making). 🚧
 
-If you want to contribute, text me [here](https://t.me/neongooru)
+If you want to contribute, text me [here](https://t.me/kotowari)
 

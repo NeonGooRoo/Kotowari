@@ -139,4 +139,4 @@ AnkiPro и подобные приложения ЭТО НЕ АНКИ. Анки 
 
 ------
 
-Если у вас есть предложение о том, какие еще программы можно сюда добавить, пишите на [GitHub](https://github.com/NeonGooRoo/NeonGooRu) или в [Telegram](https://t.me/kurutteiru).
+Если у вас есть предложение о том, какие еще программы можно сюда добавить, пишите на [GitHub](https://github.com/NeonGooRoo/kotowari) или в [Telegram](https://t.me/kurutteiru).

@@ -44,7 +44,7 @@ export default defineUserConfig({
 
     "/": {
       lang: "ru-RU",
-      title: "NeonGoo.Ru",
+      title: "Kotowari",
       description: "Японский легко и с удовольствием",
     },
 
