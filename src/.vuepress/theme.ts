@@ -57,6 +57,7 @@ export default hopeTheme({
         editLink: "Редактировать данную страницу на GitHub",
       },
     },
+    
   },
 
 
@@ -146,9 +147,9 @@ export default hopeTheme({
     comment: {
       provider: "Giscus",
       repo: "neongooroo/kotowari",
-      repoId: "R_kgDOLRM99A",
+      repoId: "R_kgDONbwoKw",
       category: "General",
-      categoryId: "DIC_kwDOLRM99M4Cdyoi",
+      categoryId: "DIC_kwDONbwoK84ClGyx",
       mapping: "title",
     },
 

@@ -67,7 +67,7 @@ export default defineUserConfig({
 ],
 
   theme,
-
+  
   // Enable it with pwa
   // shouldPrefetch: false,
 });
