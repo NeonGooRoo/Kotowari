@@ -25,6 +25,7 @@ export default hopeTheme({
     center: ["Links"],
     end: ["Language", "Repo", "Outlook", "Search"],
   },
+ 
 
 
   locales: {
@@ -134,7 +135,7 @@ export default hopeTheme({
     // Note: This is for testing ONLY!
     // You MUST generate and use your own comment service in production.
 
-
+     
     blog: {
       // Treat files in the /blog and /en/blog directories as blog posts
       filter: (page) =>
@@ -213,5 +214,6 @@ export default hopeTheme({
     //     ],
     //   },
     // },
+    
   },
 });
