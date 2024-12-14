@@ -26,6 +26,7 @@ export default hopeTheme({
     end: ["Language", "Repo", "Outlook", "Search"],
   },
 
+
   locales: {
     "/en/": {
 
@@ -132,6 +133,15 @@ export default hopeTheme({
   plugins: {
     // Note: This is for testing ONLY!
     // You MUST generate and use your own comment service in production.
+
+
+    blog: {
+      // Treat files in the /blog and /en/blog directories as blog posts
+      filter: (page) =>
+        page.filePathRelative?.startsWith("blog/") ||
+        page.filePathRelative?.startsWith("en/blog/"),
+    },
+
     comment: {
       provider: "Giscus",
       repo: "neongooroo/kotowari",

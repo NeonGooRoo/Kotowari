@@ -4,7 +4,7 @@ layout: BlogHome
 icon: home
 title: Лента сайта
 heroImage: imgvid\rei.png
-heroText: Лента сайта
+heroText: Лента
 tagline: ыы
 bgImage: https://rare-gallery.com/uploads/posts/901995-digital-art-sky-clouds-Wyvern-colorful-fantasy-art.jpg
 heroFullScreen: true
