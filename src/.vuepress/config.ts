@@ -1,8 +1,7 @@
-import { defineUserConfig } from "vuepress";  
+import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 import { hopeTheme } from "vuepress-theme-hope";
 import { viteBundler } from '@vuepress/bundler-vite'
-
 import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
 
 export default defineUserConfig({
@@ -15,11 +14,10 @@ export default defineUserConfig({
         },
       },
     },
-  }),
+  }), 
 
   base: "/",
 
-  
   head: [
 
     ["link", { rel: "preconnect", href: "https://fonts.googleapis.com" }],
@@ -35,6 +33,7 @@ export default defineUserConfig({
       },
     ],
   ],
+
   locales: {
     "/en/": {
       lang: "en-US",
@@ -51,18 +50,13 @@ export default defineUserConfig({
   },
 
   plugins: [
-      googleAnalyticsPlugin({
-        id: 'G-G6HDTB0VXG',
-      }),
-  ],
+    googleAnalyticsPlugin({
+      id: 'G-G6HDTB0VXG',
+    }),
+],
 
   theme,
-
 
   // Enable it with pwa
   // shouldPrefetch: false,
 });
-
-
-
-

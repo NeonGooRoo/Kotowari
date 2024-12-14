@@ -1,1 +1,13 @@
 // place your custom styles here
+.vp-hero-title {
+    margin: 0.5rem 0;
+    background: linear-gradient(120deg, #08c4d1, var(--vp-c-accent) 30%, #ae0ef8 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    font-weight: bold;
+    font-size: 3.6rem;
+    font-family: var(--vp-font);
+    line-height: 1.5;
+    -webkit-text-fill-color: transparent;
+}
+

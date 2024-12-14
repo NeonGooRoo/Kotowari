@@ -3,7 +3,7 @@ home: true
 icon: home
 title: Домашняя страница
 heroImage: imgvid\rei.png
-bgImage: https://i.imgur.com/iYI9m8H.png
+bgImage: https://i.imgur.com/9kYEn98.png
 bgImageDark: https://i.imgur.com/xa4XJli.png
 bgImageStyle:
   background-attachment: fixed
@@ -22,8 +22,8 @@ actions:
 highlights:
   - header: Полностью на русском!
     image: https://i.imgur.com/7Ht8exd.png
-    bgImage: https://i.imgur.com/A3OyE2s.png
-    bgImageDark: https://i.imgur.com/9FgrzLm.jpg
+    bgImage: https://i.imgur.com/nGFMTAt.png
+    bgImageDark: https://i.imgur.com/ZF21XBk.png
     highlights: 
       - title: Первый полноценный гайд, написанный полностью на русском языке.
       - title: Содержит ссылки на источники на русском, русские словари, чаты и прочее.

@@ -5,16 +5,25 @@ $bg-color: (
     dark: #222222,
   );
 
-  #main-title {
-     margin: 0.5rem 0; 
-    background: linear-gradient(120deg, var(--theme-color-light), var(--theme-color) 30%, #a500a0 100%);
-    -webkit-background-clip: text; 
-    background-clip: text; 
-     font-weight: bold; 
-     font-size: 3.6rem; 
-     font-family: var(--font-family); 
-     line-height: 1.5; 
-     -webkit-text-fill-color: transparent; 
+$font-family-heading: "Raleway";
+
+#main-description {
+  max-width: 35rem;
+  color: rgba(0, 0, 255, 0.78);
+  font-weight: 500;
+  font-size: 1.6rem;
+  line-height: 1.3;
 }
 
-$font-family-heading: "Raleway";
+
+
+:root {
+  --vp-c-text-mute: #545463; /* Default for light theme */
+}
+
+[data-theme="dark"] {
+  --vp-c-text-mute: #d8e5e7; /* Muted color for dark theme */
+}
+
+$vp-c-control: #9a11da5e;
+$vp-c-control-hover: #ae0ef896;
