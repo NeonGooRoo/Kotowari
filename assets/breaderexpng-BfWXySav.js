@@ -1,0 +1,1 @@
+const i="/imgvid/breader.png",s="/imgvid/scrWORD.png",o="/imgvid/scrreview.png",n="/imgvid/ankiinfo.jpg",p="/imgvid/import.png",r="/imgvid/deck.png",g="/imgvid/breaderdown.png",t="/imgvid/breaderexpng.png";export{i as _,s as a,o as b,n as c,p as d,r as e,g as f,t as g};
