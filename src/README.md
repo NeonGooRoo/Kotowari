@@ -40,79 +40,82 @@ highlights:
       - title: JPDB
         icon: /ico/jpdb.png
         details: Сайт для флешкарточек, датабазой контента и программами для майнинга на английском.
-        link: https://kotowari.ruguide/jpdb.html
+        link: https://kotowari.ru/guide/jpdb.html
 
       - title: Yomitan
         icon: /ico/yomitan.svg
         details: Подсмотр слов в браузере по наведению, а также их майнинг.
-        link: https://kotowari.rusoftware/yomitan.html
+        link: https://kotowari.ru/software/yomitan.html
 
       - title: Anki
         icon: /ico/anki.svg
         details: Приложение для эффективного заучивания слов, очень много возможностей.
-        link: https://kotowari.rusoftware/anki.html
+        link: https://kotowari.ru/software/anki.html
 
       - title: JL
         icon: /ico/jl.ico
         details: Приложение для подсмотра и майнинга слов во время просмотра аниме\игры на полный экран.
-        link: https://kotowari.rusoftware/jl.html
+        link: https://kotowari.ru/software/jl.html
 
       - title: MPV
         icon: /ico/mpv-icon.png
         details: Плеер для майнинга и подсмотра слов.
-        link: https://kotowari.rusoftware/mpv.html
+        link: https://kotowari.ru/software/mpv.html
 
       - title: asbplayer
         icon: /ico/asb.png
         details: плеер для майнинга и подсмотра слов в браузере.
-        link: https://kotowari.rusoftware/asbplayer.html
+        link: https://kotowari.ru/software/asbplayer.html
 
       - title: Субтитры
         icon: /ico/subtitles.svg
         details: программы для обработки субтитров.
-        link: https://kotowari.rusoftware/subtitles.html
+        link: https://kotowari.ru/software/subtitles.html
 
       - title: Видеоигры
         icon: /ico/videogame.svg
         details: Играть в игры\вн и вытаскивать текст из них для удобного майнинга.
-        link: https://kotowari.rusoftware/vn.html
+        link: https://kotowari.ru/software/vn.html
 
 
       - title: ActivityWatch
         icon: /ico/aw.png
         details: Ведет учёт открытых программ.
-        link: https://kotowari.rusoftware/activitywatch.html
+        link: https://kotowari.ru/software/activitywatch.html
 
       - title: OCR Инструменты
         icon: /ico/ocr.svg
         details: Программы для сканирования текста с экрана.
-        link: https://kotowari.rusoftware/ocr-tools.html
+        link: https://kotowari.ru/software/ocr-tools.html
 
 
-      - title: jidoujisho
+      - title: jidoujisho 🚧
         icon: /ico/jidoujisho.png
         details: Всевозможная программа для Android, позволяет читать, смотреть, играть и все прочее подсматривая слова и майня.
-        link: https://kotowari.rusoftware/jidoujisho.html
+        link: https://kotowari.ru/software/jidoujisho.html
 
 
       - title: Ресурсы
         icon: /assets/image/box.svg
         details: Склад всевозможных источников контента и информации о японском.
-        link: https://kotowari.ruresources.html
+        link: https://kotowari.ru/resources.html
 
+  - header: Подписывайтесь на мой телеграм! (кликабельно)
 
-
-
-  - header: Не смотрите сюда
-    description: не придумал
-    image: /assets/image/layout.svg
-    bgImage: https://theme-hope-assets.vuejs.press/bg/5-light.svg
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/5-dark.svg
+    image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png
+    bgImage: https://i.imgur.com/sgeoSNh.png
+    bgImageDark: https://i.imgur.com/oZx4c0X.png
     highlights:
-      - title: уыыыы
-        icon: object-group
-        details: угабуга
-        link: http://localhost:8080/
+      - title: СХОЖУ С УМА НА ЯПОНСКОМ
+        details: Канал о всяком, в основном связанном с японским.
+        link: https://t.me/kurutteiru
+
+      - title: Японский язык | Immersion | Погружение | Kotowari
+        details: Чатик
+        link: https://t.me/kotowariru
+
+
+
 
 
 copyright: false

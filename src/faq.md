@@ -88,7 +88,7 @@ ReadingTime:
 
 ### Как учить кандзи?
 
-Про это написано немного в [основном гайде]([/guide/how-to/](https://kotowari.ruguide/how-to.html#%D1%81%D0%BB%D0%BE%D0%B2%D0%B0-%D0%B8-%D0%BA%D0%B0%D0%BD%D0%B4%D0%B7%D0%B8)), когда-нибудь будет поподробнее про это. Также есть интересный подход [THE KANJI VISUAL LANGUAGE PROJECT](https://kvlp.org/introduction/), там дельные вещи говорят. НЕ НАДО учить кандзи без слов в изоляции.
+Про это написано немного в [основном гайде]([/guide/how-to/](https://kotowari.ru/guide/how-to.html#%D1%81%D0%BB%D0%BE%D0%B2%D0%B0-%D0%B8-%D0%BA%D0%B0%D0%BD%D0%B4%D0%B7%D0%B8)), когда-нибудь будет поподробнее про это. Также есть интересный подход [THE KANJI VISUAL LANGUAGE PROJECT](https://kvlp.org/introduction/), там дельные вещи говорят. НЕ НАДО учить кандзи без слов в изоляции.
 
 ### Нужно ли учить радикалы?
 
@@ -104,7 +104,7 @@ ReadingTime:
 
 ### Как учить слова?
 
-Через Анки, про это написано немного в [основном гайде]([/guide/how-to/](https://kotowari.ruguide/how-to.html#%D1%81%D0%BB%D0%BE%D0%B2%D0%B0-%D0%B8-%D0%BA%D0%B0%D0%BD%D0%B4%D0%B7%D0%B8))
+Через Анки, про это написано немного в [основном гайде]([/guide/how-to/](https://kotowari.ru/guide/how-to.html#%D1%81%D0%BB%D0%BE%D0%B2%D0%B0-%D0%B8-%D0%BA%D0%B0%D0%BD%D0%B4%D0%B7%D0%B8))
 
 ### Когда начинать Anki? 
 

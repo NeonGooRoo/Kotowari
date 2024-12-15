@@ -29,7 +29,7 @@ Memento - плеер для майнинга, сделанный на основ
 
 ![](/imgvid/mementoset.png)
 
-В открывшуюся папочку перенесите содержимое [данного архива](https://drive.google.com/file/d/13fEylItJpFoe9gVWkWAVzFkrJSdAg8e-/view?usp=drive_link).  Перезагрузите программу, чтобы проверить, что все работает, наведитесь на **settings** - **profile**, там должен быть выбран профиль *NeonGoo.Ru*. 
+В открывшуюся папочку перенесите содержимое [данного архива](https://drive.google.com/file/d/1zLugi2OhNDSC3pDcgVFlRKypSTbRbNOY/view?usp=sharing).  Перезагрузите программу, чтобы проверить, что все работает, наведитесь на **settings** - **profile**, там должен быть выбран профиль *NeonGoo.Ru*. 
 
 ## Настройка
 

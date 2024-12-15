@@ -40,65 +40,65 @@ highlights:
       - title: JPDB
         icon: /ico/jpdb.png
         details: Site for flashcards, Japanese media statistics and mining tools.
-        link: https://kotowari.ruguide/jpdb.html
+        link: https://kotowari.ru/guide/jpdb.html
 
       - title: Yomitan
         icon: /ico/yomitan.svg
         details: Convenient dictionary lookups and mining.
-        link: https://kotowari.rusoftware/yomitan.html
+        link: https://kotowari.ru/software/yomitan.html
 
       - title: Anki
         icon: /ico/anki.svg
         details: The application for effective memorization of words with limitless capabilities.
-        link: https://kotowari.rusoftware/anki.html
+        link: https://kotowari.ru/software/anki.html
 
       - title: JL
         icon: /ico/jl.ico
         details: An app for lookups and mining while watching anime \ gaming full screen.
-        link: https://kotowari.rusoftware/jl.html
+        link: https://kotowari.ru/software/jl.html
 
       - title: MPV
         icon: /ico/mpv-icon.png
         details: A video player for mining and word lookup.
-        link: https://kotowari.rusoftware/mpv.html
+        link: https://kotowari.ru/software/mpv.html
 
       - title: asbplayer
         icon: /ico/asb.png
         details: A video player for mining and word lookup for videos inside your browser.
-        link: https://kotowari.rusoftware/asbplayer.html
+        link: https://kotowari.ru/software/asbplayer.html
 
       - title: Subtitles
         icon: /ico/subtitles.svg
         details: Apps for working with subtitles.
-        link: https://kotowari.rusoftware/subtitles.html
+        link: https://kotowari.ru/software/subtitles.html
 
       - title: Videogames and VNs
         icon: /ico/videogame.svg
         details: Learn how to download VNs and extract text from them.
-        link: https://kotowari.rusoftware/vn.html
+        link: https://kotowari.ru/software/vn.html
 
 
       - title: ActivityWatch
         icon: /ico/aw.png
         details: Track your time on PC.
-        link: https://kotowari.rusoftware/activitywatch.html
+        link: https://kotowari.ru/software/activitywatch.html
 
       - title: OCR Tools
         icon: /ico/ocr.svg
         details: Software for scanning text from the screen.
-        link: https://kotowari.rusoftware/ocr-tools.html
+        link: https://kotowari.ru/software/ocr-tools.html
 
 
       - title: jidoujisho
         icon: /ico/jidoujisho.png
         details: Almighty Android app allows you to read, watch, play and whatever else with words lookup and mining.
-        link: https://kotowari.rusoftware/jidoujisho.html
+        link: https://kotowari.ru/software/jidoujisho.html
 
 
       - title: Resources
         icon: /assets/image/box.svg
         details: A collection of all kinds of sources for Japanese media and language information.
-        link: https://kotowari.ruresources.html
+        link: https://kotowari.ru/resources.html
 
 
 
