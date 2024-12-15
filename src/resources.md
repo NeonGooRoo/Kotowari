@@ -19,7 +19,7 @@ ReadingTime:
 
 
 
-## Прочие гайды и источники информации
+# Прочие гайды и источники информации
 
 [TheMoeWay](https://learnjapanese.moe/)  [E] - самый распространенный и полноценный гайд на данный момент.
 
@@ -31,9 +31,9 @@ ReadingTime:
 
 [Rentry Resources](https://rentry.co/japanese_resources)
 
-### Информация о японском
+# Информация о японском
 
-#### Словари и переводчики
+## Словари и переводчики
 
 [Yomitan search](chrome-extension://likgccmbimhjbgkjambclfkhldnlhbnn/search.html) - поиск внутри ваших словарей Yomitan. Также открывается по нажатию на иконку расширения и лупу в ней
 
@@ -67,13 +67,13 @@ ReadingTime:
 
 ИИ чат-боты так же способны переводить и объяснять некоторые вещи, но неидеально.
 
-#### Японские корпусы
+## Японские корпусы
 
 [Hinoki Project](https://hinoki-project.org/)
 
 [tsukuba](https://tsukubawebcorpus.jp/)
 
-#### Грамматика
+## Грамматика
 
 [Гайд Тае Кима](https://vandal.sdf-eu.org/JapaneseGuide/index.html) - самый распространенный гайд, лучший вариант для начинающих, но очень короткий. Есть некоторые неточности и странные интерпретации, но от этого не убежишь. 
 
@@ -97,11 +97,11 @@ ReadingTime:
 
 [Tofugu](https://www.tofugu.com/japanese/best-kanji-learning-programs/) [E] - сайт с инфой больше для начинающих, много разных интересных вещей
 
-#### Лингвистика
+## Лингвистика
 
 [Диск Панатеса](https://t.me/kurutteiru/84) - коллекция лингвистических пособий Панатеса, вместе с рекомендацией для начинающих
 
-#### Помощь
+## Помощь
 
 [日本語学校](https://t.me/nihongotabemasen) - чат ТГ
 
@@ -113,19 +113,19 @@ ReadingTime:
 
 [Asian Languages Learning](https://discord.gg/asian-languages-learning-russian-japanese-chinese-341333537326235649) - Discord канал с кучей людей и разделом под Японский.
 
-### Контент на японском
+# Контент на японском
 
-#### Подбор контента по уровню
+## Подбор контента по уровню
 
 [Jo Mako's Spreadsheet](https://docs.google.com/spreadsheets/d/1ukDIWSkh_xvpppPbgs1nUR2kaEwFaWlsJgZUlb9LuTs/edit#gid=822742203) - огромная Экселька с кучей инфы и контента.
 
-[Natively] (https://learnnatively.com/)- литература по сложности.
+[Natively](https://learnnatively.com/)- литература по сложности.
 
 [JPDB.io](https://jpdb.io/prebuilt_decks) - куча разного контента по сложности, но сложность измеряется только в плане лексики. Также алгоритм дает сильную фору более коротким произведениям, но есть куча настроек.
 
-#### Видеоконтент
+## Видеоконтент
 
-##### Субтитры
+### Субтитры
 
 [Jimaku](https://jimaku.cc/) - новый сервис, основной источник субтитров для аниме на японском. Там есть почти все. В нем содержится база Китсунеко, но он гораздо удобнее.
 
@@ -141,7 +141,7 @@ ReadingTime:
 
 [D Addicts](https://www.d-addicts.com/) - форум по дорамам, есть шанс найти там.
 
-##### Аниме
+### Аниме
 
 [Рутрекер](https://rutracker.org/forum/index.php) - без лишних слов
 
@@ -153,7 +153,7 @@ ReadingTime:
 
 [Netflix](https://www.netflix.com/ge/) - есть японские сабы, не очень много аниме. Для доступа можно купить аккаунт за 100 рублей на интернет площадках типа Plati (https://plati.market/).  С японского VPN больше контента на японском.
 
-##### Дорамы\Кино
+### Дорамы\Кино
 
 [Рутрекер](https://rutracker.org/forum/index.php) - можно найти некоторые дорамы и фильмы
 
@@ -172,7 +172,7 @@ Netflix, Amazon Prime, Disney Plus - в основном западный кон
 
 [Raredoramas](https://raredoramas.info/) - Для “редких” дорам.
 
-##### Японское ТВ онлайн
+### Японское ТВ онлайн
 
 [aqstream](https://aqstream.com/jp) - Японское ТВ
 
@@ -182,9 +182,9 @@ Netflix, Amazon Prime, Disney Plus - в основном западный кон
 
 [Kwakami TV](https://play.google.com/store/apps/details?id=com.kwakami.tv_japan) - ТВ онлайн, больше всего контента. (Android)
 
-#### Чтение
+## Чтение
 
-##### Манга
+### Манга
 
 [Mokuro Moe](https://mokuro.moe/manga/) - директория манг проведенных через мокуро, лучший вариант для начинающих. Можно использовать Yomitan на манге.
 
@@ -202,7 +202,7 @@ Netflix, Amazon Prime, Disney Plus - в основном западный кон
 
 [Rawkuma](https://rawkuma.com/) - можно скачивать и читать онлайн.
 
-##### Литература
+### Литература
 
 [YomuJP](https://yomujp.com/) - адаптированные тексты
  
@@ -222,7 +222,7 @@ Netflix, Amazon Prime, Disney Plus - в основном западный кон
 
 [Graded Readers MEGA](https://mega.nz/folder/sRdhSC4b#SOdG9R-Q5fF93JumpEwcyw) архив с книгами по сложности для новичков
 
-##### ВН и игры
+### ВН и игры
 
 [sukebei.nyaa.si](http://sukebei.nyaa.si/) - 18+ версия Nyaa.si (http://nyaa.si/), тут больше ВН чем на обычной версии. Торрент
 
@@ -234,9 +234,9 @@ Netflix, Amazon Prime, Disney Plus - в основном западный кон
 
 [NoPayStation](https://nopaystation.com/) - рипы игр для PlayStation.
 
-#### Слушание
+## Слушание
 
-##### Condensed Audio
+### Condensed Audio
 
 Это аудио вышитое из аниме или другого контента, из него вырезаны паузы между строчками диалогов. Для начинающих отличный вариант, если выбирать аниме полегче, гораздо легче, чем подкасты.
 
@@ -246,13 +246,13 @@ Netflix, Amazon Prime, Disney Plus - в основном западный кон
 
 [Condensed Audio 3](https://condensedaudiocatalog.com/#)
 
-##### Подкасты и радио
+### Подкасты и радио
 
 [Google Podcast](https://podcasts.google.com/?hl=ja) - японская версия сайта, сразу выскакивают рекомендации на японском.
 
 На различных платформах (например Spotify и YouTue) можно найти  **聴く anime**, что является чем-то похожем на CD драмы. Они легче, чем обычные подкасты.
 
-#### Может быть интересно
+# Может быть интересно
 
 [рандомные иероглифы панатеса](https://vk.com/randomkj) - Паблик ВК лингвиста Панатеса.
 
@@ -262,5 +262,5 @@ Netflix, Amazon Prime, Disney Plus - в основном западный кон
 
 [Big in Japan](https://t.me/big_in_japan_youtube) - канал с видео на японском, у которых в ручную сделанные субтитры (не автоматические, то есть точные)
 
-#### 
+
 
