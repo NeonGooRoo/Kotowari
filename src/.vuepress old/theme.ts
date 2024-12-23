@@ -76,7 +76,7 @@ export default hopeTheme({
   plugins: {
     
     blog: true,
-
+    redirect: false,
     searchPro: {
         
       locales: {
