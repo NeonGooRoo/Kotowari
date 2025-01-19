@@ -48,14 +48,14 @@ export default defineUserConfig({
   locales: {
     "/en/": {
       lang: "en-US",
-      title: "NeonGooRoo's Guide",
+      title: "Kotowari",
       description: "Japanese with fun and ease",
     },
 
     "/": {
       lang: "ru-RU",
-      title: "Kotowari",
-      description: "Японский легко и с удовольствием",
+      title: "Котовари",
+      description: "Японский язык с нуля! Бесплатные ресурсы и программы.",
     },
 
   },

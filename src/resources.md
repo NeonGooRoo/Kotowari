@@ -31,6 +31,8 @@ ReadingTime:
 
 [Rentry Resources](https://rentry.co/japanese_resources)
 
+[r/Piracy Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/) - тут собранно огромное количество источников с пираченным контентом.
+
 # Информация о японском
 
 ## Словари и переводчики
@@ -149,6 +151,8 @@ ReadingTime:
 
 [Aniwatch.to](https://aniwatch.to/) - сайт с небольшим количеством фильмов, аниме и дорам, но там есть в том числе западные в дубляже. На сайте есть встроенный Йомичан (подсмотр слов), полный доступ платно.
 
+[HiAnime](http://hianime.to/) - много аниме онлайн.
+
 [Crunchyroll](https://www.crunchyroll.com/) - аниме легально. 
 
 [Netflix](https://www.netflix.com/ge/) - есть японские сабы, не очень много аниме. Для доступа можно купить аккаунт за 100 рублей на интернет площадках типа Plati (https://plati.market/).  С японского VPN больше контента на японском.
@@ -192,6 +196,8 @@ Netflix, Amazon Prime, Disney Plus - в основном западный кон
 
 Далее варианты для RAW манги, в которой чтобы подсматривать слова нужно будет пользоваться сторонними программами.
 
+[X3DL](https://x3dl.net/) - огромный японский сайт, манга и литература.
+
 [nyaa.si](http://nyaa.si/) - Много манги торрент.
 
 [Hakuneko Manga Downloader](https://hakuneko.download/) - Можно скачивать на японском по тегам `raw` и`japanese` 
@@ -207,6 +213,8 @@ Netflix, Amazon Prime, Disney Plus - в основном западный кон
 [YomuJP](https://yomujp.com/) - адаптированные тексты
  
 [Itazuraneko Extended Ebook Novel](https://yonde.itazuraneko.org/) - самая большая датабаза книг.
+
+[X3DL](https://x3dl.net/) - огромный японский сайт, манга и литература.
 
 [nyaa.si](http://nyaa.si/) - более распространенная литература, торрент, самый удобный поиск.
 

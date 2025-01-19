@@ -1,7 +1,7 @@
 ---
 home: true
 icon: home
-title: Домашняя страница
+title: Японский язык с нуля! 
 heroImage: imgvid\rei.png
 bgImage: https://i.imgur.com/9kYEn98.png
 bgImageDark: https://i.imgur.com/xa4XJli.png
@@ -25,7 +25,7 @@ highlights:
     bgImage: https://i.imgur.com/nGFMTAt.png
     bgImageDark: https://i.imgur.com/ZF21XBk.png
     highlights: 
-      - title: Первый полноценный гайд, написанный полностью на русском языке.
+      - title: Полностью бесплатное пособие по изучению японского языка для новичков!
       - title: Содержит ссылки на источники на русском, русские словари, чаты и прочее.
 
   - header: Куча программ для погружения!
