@@ -112,7 +112,7 @@ highlights:
 
       - title: Японский язык | Immersion | Погружение | Kotowari
         details: Чатик
-        link: https://t.me/kotowariru
+        link: https://t.me/dekitaidan
 
 
 

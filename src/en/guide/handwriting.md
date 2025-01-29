@@ -15,7 +15,7 @@ ReadingTime: 10
 ---
 🚧 Handwriting guide (in the making). 🚧
 
-If you want to contribute, text me [here](https://t.me/kotowari)
+If you want to contribute, text me [here](https://t.me/dekitaidan)
 
 -----
 
