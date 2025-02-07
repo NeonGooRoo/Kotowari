@@ -1,11 +1,11 @@
 import { sidebar } from "vuepress-theme-hope";
 
 export const ruSidebar = sidebar({
-  "/":  [
+  "/": [
     "",
     {
       text: "Вопросы",
-      link: "faq"
+      link: "faq",
     },
 
     "guide/how-to",
@@ -27,12 +27,12 @@ export const ruSidebar = sidebar({
           text: "AnkiCollab",
           icon: "/ico/collab.png",
           link: "ankicollab",
-        },  
+        },
         {
           text: "Словари",
           icon: "/ico/dictionary.svg",
           link: "dictionaries",
-        },  
+        },
         {
           text: "Учет времени 🚧",
           icon: "/ico/timer.svg",
@@ -49,9 +49,8 @@ export const ruSidebar = sidebar({
           link: "mext",
         },
       ],
-      
     },
-  
+
     {
       text: "Софт",
       collapsible: true,
@@ -122,24 +121,17 @@ export const ruSidebar = sidebar({
           icon: "/ico/random.svg",
           link: "other",
         },
-  
       ],
-      
-      
     },
     {
       text: "Вопросы",
       link: "/faq",
     },
     {
-      text: "Лета",
+      text: "Лента",
       link: "/blog",
     },
-
-
-  ], 
+  ],
 
   "/software/": "structure",
-
-  
 });
