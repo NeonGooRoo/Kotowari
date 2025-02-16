@@ -11,7 +11,7 @@ export default hopeTheme({
   },
 
   favicon: "/favicon.ico",
-  
+
   iconAssets: "fontawesome-with-brands",
 
   logo: "/logo.png",
@@ -25,16 +25,12 @@ export default hopeTheme({
     center: ["Links"],
     end: ["Language", "Repo", "Outlook", "Search"],
   },
- 
-
 
   locales: {
     "/en/": {
-
       navbar: enNavbar,
 
       sidebar: enSidebar,
-
 
       displayFooter: true,
 
@@ -43,10 +39,7 @@ export default hopeTheme({
       },
     },
 
-
-
     "/": {
-
       navbar: ruNavbar,
 
       sidebar: ruSidebar,
@@ -57,10 +50,7 @@ export default hopeTheme({
         editLink: "Редактировать данную страницу на GitHub",
       },
     },
-    
   },
-
-
 
   // These features are enabled for demo, only preserve features you need here
   markdown: {
@@ -136,7 +126,6 @@ export default hopeTheme({
     // Note: This is for testing ONLY!
     // You MUST generate and use your own comment service in production.
 
-     
     blog: {
       // Treat files in the /blog and /en/blog directories as blog posts
       filter: (page) =>
@@ -154,10 +143,8 @@ export default hopeTheme({
     },
 
     components: {
-      components: ["Badge", "VPCard", "Share",
-      "VidStack",],
+      components: ["Badge", "VPCard", "Share", "VidStack"],
     },
-
 
     // Install @vuepress/plugin-pwa and uncomment these if you want a PWA
     // pwa: {
@@ -215,6 +202,5 @@ export default hopeTheme({
     //     ],
     //   },
     // },
-    
   },
 });
