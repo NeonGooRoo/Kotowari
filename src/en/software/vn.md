@@ -1,29 +1,21 @@
 ---
-
 Author:
 title: Визуальные новеллы и игры
 shortTitle: ВН и игры
 description: Установка игр и софта для комфортной игры в них.
-icon: "/ico/videogame.svg"
-category: 
- - инструменты
+icon: '/ico/videogame.svg'
+category:
+  - инструменты
 tag:
- - ВН\игры
-Date: 
-ReadingTime: 
+  - ВН\игры
+Date:
+ReadingTime:
 order: 8
 ---
 
-
-
-
 Тут будет показано какой софт нужно использовать чтобы играть и майнить видеоигры, преимущественно визуальные новеллы, с комфортом и удовольствием.
 
------
-
- 
-
-
+---
 
 ## Locale Emulator (Windows)
 

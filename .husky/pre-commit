@@ -1,1 +1,2 @@
-prettier --write
+prettier --write "**.{js,jsx,ts,tsx,html,md,css,scss,less}"
+git add .

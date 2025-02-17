@@ -1,33 +1,33 @@
-import { hopeTheme } from "vuepress-theme-hope";
-import { enNavbar, ruNavbar } from "./navbar/index.js";
-import { enSidebar, ruSidebar } from "./sidebar/index.js";
+import { hopeTheme } from 'vuepress-theme-hope';
+import { enNavbar, ruNavbar } from './navbar/index.js';
+import { enSidebar, ruSidebar } from './sidebar/index.js';
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
+  hostname: 'https://vuepress-theme-hope-docs-demo.netlify.app',
 
   author: {
-    name: "NeonGooRoo",
-    url: "https://t.me/neongooroo",
+    name: 'NeonGooRoo',
+    url: 'https://t.me/neongooroo',
   },
 
-  favicon: "/favicon.ico",
+  favicon: '/favicon.ico',
 
-  iconAssets: "fontawesome-with-brands",
+  iconAssets: 'fontawesome-with-brands',
 
-  logo: "/logo.png",
+  logo: '/logo.png',
 
-  repo: "neongooroo/kotowari",
+  repo: 'neongooroo/kotowari',
 
-  docsDir: "src",
+  docsDir: 'src',
 
   navbarLayout: {
-    start: ["Brand"],
-    center: ["Links"],
-    end: ["Language", "Repo", "Outlook", "Search"],
+    start: ['Brand'],
+    center: ['Links'],
+    end: ['Language', 'Repo', 'Outlook', 'Search'],
   },
 
   locales: {
-    "/en/": {
+    '/en/': {
       navbar: enNavbar,
 
       sidebar: enSidebar,
@@ -35,11 +35,11 @@ export default hopeTheme({
       displayFooter: true,
 
       metaLocales: {
-        editLink: "Edit this page on GitHub",
+        editLink: 'Edit this page on GitHub',
       },
     },
 
-    "/": {
+    '/': {
       navbar: ruNavbar,
 
       sidebar: ruSidebar,
@@ -47,7 +47,7 @@ export default hopeTheme({
       displayFooter: true,
 
       metaLocales: {
-        editLink: "Редактировать данную страницу на GitHub",
+        editLink: 'Редактировать данную страницу на GitHub',
       },
     },
   },
@@ -69,13 +69,13 @@ export default hopeTheme({
     spoiler: true,
     stylize: [
       {
-        matcher: "Recommended",
+        matcher: 'Recommended',
         replacer: ({ tag }) => {
-          if (tag === "em")
+          if (tag === 'em')
             return {
-              tag: "Badge",
-              attrs: { type: "tip" },
-              content: "Recommended",
+              tag: 'Badge',
+              attrs: { type: 'tip' },
+              content: 'Recommended',
             };
         },
       },
@@ -128,22 +128,22 @@ export default hopeTheme({
 
     blog: {
       // Treat files in the /blog and /en/blog directories as blog posts
-      filter: (page) =>
-        page.filePathRelative?.startsWith("blog/") ||
-        page.filePathRelative?.startsWith("en/blog/"),
+      filter: page =>
+        page.filePathRelative?.startsWith('blog/') ||
+        page.filePathRelative?.startsWith('en/blog/'),
     },
 
     comment: {
-      provider: "Giscus",
-      repo: "neongooroo/kotowari",
-      repoId: "R_kgDONbwoKw",
-      category: "General",
-      categoryId: "DIC_kwDONbwoK84ClGyx",
-      mapping: "title",
+      provider: 'Giscus',
+      repo: 'neongooroo/kotowari',
+      repoId: 'R_kgDONbwoKw',
+      category: 'General',
+      categoryId: 'DIC_kwDONbwoK84ClGyx',
+      mapping: 'title',
     },
 
     components: {
-      components: ["Badge", "VPCard", "Share", "VidStack"],
+      components: ['Badge', 'VPCard', 'Share', 'VidStack'],
     },
 
     // Install @vuepress/plugin-pwa and uncomment these if you want a PWA
