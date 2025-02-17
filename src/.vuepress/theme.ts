@@ -146,6 +146,10 @@ export default hopeTheme({
       components: ['Badge', 'VPCard', 'Share', 'VidStack'],
     },
 
+    redirect: {
+      autoLang: false,
+    },
+
     // Install @vuepress/plugin-pwa and uncomment these if you want a PWA
     // pwa: {
     //   favicon: "/favicon.ico",
