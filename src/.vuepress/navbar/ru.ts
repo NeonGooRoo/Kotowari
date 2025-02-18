@@ -1,77 +1,74 @@
-import { navbar } from "vuepress-theme-hope";
+import { navbar } from 'vuepress-theme-hope';
 
 export const ruNavbar = navbar([
-
-  
   {
-    text: "Старт",
-    icon: "home",
-    link: "/",
+    text: 'Старт',
+    icon: 'home',
+    link: '/',
   },
   {
-    text: "Для начинающих",
-    link: "/guide/how-to.md",
+    text: 'Для начинающих',
+    link: '/guide/how-to.md',
   },
   {
-    text: "Гайды",
-    prefix: "/guide/",
+    text: 'Гайды',
+    prefix: '/guide/',
     children: [
       {
-        text: "JPDB",
-        icon: "/ico/jpdb.png",
-        link: "jpdb",
+        text: 'JPDB',
+        icon: '/ico/jpdb.png',
+        link: 'jpdb',
       },
       {
-        text: "Как фокусироваться",
-        icon: "/ico/focus.svg",
-        link: "focus",
+        text: 'Как фокусироваться',
+        icon: '/ico/focus.svg',
+        link: 'focus',
       },
       {
-        text: "AnkiCollab",
-        icon: "/ico/collab.png",
-        link: "ankicollab",
-      },  
-      {
-        text: "Словари",
-        icon: "/ico/dictionary.svg",
-        link: "dictionaries",
-      },  
-      {
-        text: "Учет времени 🚧",
-        icon: "/ico/timer.svg",
-        link: "timetracking",
+        text: 'AnkiCollab',
+        icon: '/ico/collab.png',
+        link: 'ankicollab',
       },
       {
-        text: "Письмо 🚧",
-        icon: "/ico/writing.svg",
-        link: "handwriting",
+        text: 'Словари',
+        icon: '/ico/dictionary.svg',
+        link: 'dictionaries',
       },
       {
-        text: "MEXT 🚧",
-        icon: "/ico/school.svg",
-        link: "mext",
+        text: 'Учет времени 🚧',
+        icon: '/ico/timer.svg',
+        link: 'timetracking',
+      },
+      {
+        text: 'Письмо 🚧',
+        icon: '/ico/writing.svg',
+        link: 'handwriting',
+      },
+      {
+        text: 'MEXT 🚧',
+        icon: '/ico/school.svg',
+        link: 'mext',
       },
     ],
   },
   {
-    text: "Софт",
-    prefix: "/software/",
-    link: "/software/",
+    text: 'Софт',
+    prefix: '/software/',
+    link: '/software/',
   },
   {
-    text: "Ресурсы",
-    link: "resources",
+    text: 'Ресурсы',
+    link: 'resources',
   },
   {
-    text: "Вопросы",
-    link: "faq"
+    text: 'Вопросы',
+    link: 'faq',
   },
   {
-    text: "Лента",
-    link: "/blog/",
+    text: 'Лента',
+    link: '/blog/',
   },
 ]);
-
 
 /* {
   text: "Гайд",

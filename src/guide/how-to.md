@@ -9,7 +9,7 @@ tag:
   - обязательное
   - новичкам
 Date:
-icon: "/ico/writing.svg"
+icon: '/ico/writing.svg'
 ReadingTime: 10
 ---
 

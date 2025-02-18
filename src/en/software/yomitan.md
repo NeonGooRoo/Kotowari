@@ -3,22 +3,19 @@ Author:
 title: Yomitan
 shortTitle: Yomitan
 description: Установка и настройка Yomitan
-icon: "/ico/yomitan.svg"
-category: 
- - инструменты
+icon: '/ico/yomitan.svg'
+category:
+  - инструменты
 tag:
- - обязательное
- - майнинг
- - Android
+  - обязательное
+  - майнинг
+  - Android
 Date: 08-03-2024
 ReadingTime: 10
 order: 1
 headerDepth: 1
 redirectFrom: /yomitan.html
 ---
-
-
-
 
 [**Yomitan**](/software/yomitan.html#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0) (ранее Yomichan) - очень удобное расширение, позволяющее по наведению мыши смотреть значения практически любого слова. Поддерживает кучу словарей, а также позволяет майнить слова. Работает на ПК и **Android**
 
@@ -28,21 +25,17 @@ redirectFrom: /yomitan.html
 
 <VidStack src="/imgvid/yomininjademo.mp4"/>
 
------
+---
 
-
-
-
-
-## Установка 
+## Установка
 
 ### ПК
 
 **Yomitan** можно скачать для [Chrome](https://chromewebstore.google.com/detail/yomitan/likgccmbimhjbgkjambclfkhldnlhbnn) и [Firefox](https://addons.mozilla.org/en-US/firefox/addon/yomitan/).
 
-Сразу обе ссылки ниже скопируйте и откройте в новых вкладках: 
+Сразу обе ссылки ниже скопируйте и откройте в новых вкладках:
 
-`chrome-extension://likgccmbimhjbgkjambclfkhldnlhbnn/permissions.html` 
+`chrome-extension://likgccmbimhjbgkjambclfkhldnlhbnn/permissions.html`
 `chrome://extensions/?id=likgccmbimhjbgkjambclfkhldnlhbnn`
 
 ### Android
@@ -53,7 +46,7 @@ redirectFrom: /yomitan.html
 
 Вставляете ссылку ниже в адресную строку:
 
-`chrome://extensions/?id=likgccmbimhjbgkjambclfkhldnlhbnn` 
+`chrome://extensions/?id=likgccmbimhjbgkjambclfkhldnlhbnn`
 
 Если не работает, откройте список расширений и зайдите в настройки **Yomitan** вручную. Дайте, желательно, все разрешения. Как минимум **Allow access to file URLs** нужно для работы **Yomitan** в файлах и **Persistent storage** чтобы ваши словари случайно не удалились. ЭТО НЕ НАСТРОЙКИ **ЙОМИТАН** КОТОРЫЕ САМИ ОТКРЫЛИСЬ ПОСЛЕ УСТАНОВКИ.
 
@@ -63,18 +56,18 @@ redirectFrom: /yomitan.html
 
 **Yomitan** сам по себе не содержит в себе информации, так что словари нужно выбрать установить самому. [Здесь](https://drive.google.com/drive/folders/10kvhKQn26zGxg4VM-R8ldCmPwbo7mxfO?usp=sharing) можно скачать мою подборку словарей, в том числе русских, [здесь](https://drive.google.com/drive/folders/1tTdLppnqMfVC5otPlX_cs4ixlIgjv_lH) можно посмотреть огромную коллекцию автора TheMoeWay. Есть несколько основных видов со значениями, снизу написаны рекомендуемые варианты из моего архива:
 
-| Кандзи                         | Монолингвистическиме              | Билингвистические              |
-|--------------------------------|-----------------------------------------|--------------------------------|
-| Показывает информацию о кандзи | Имеют объяснения слов в чистом японском | Имеют переводы на другие языки |
-| ![](/imgvid/kanjidic.png)  | ![](/imgvid/monoling.png)   | ![](/imgvid/biling.png) |
-| KANJIDIC                       | 大辞林   | Kenrowa (RU), Вародай (RU), Jitendex (EN)    |
+| Кандзи                         | Монолингвистическиме                    | Билингвистические                         |
+| ------------------------------ | --------------------------------------- | ----------------------------------------- |
+| Показывает информацию о кандзи | Имеют объяснения слов в чистом японском | Имеют переводы на другие языки            |
+| ![](/imgvid/kanjidic.png)      | ![](/imgvid/monoling.png)               | ![](/imgvid/biling.png)                   |
+| KANJIDIC                       | 大辞林                                  | Kenrowa (RU), Вародай (RU), Jitendex (EN) |
 
 А также есть словари с дополнительной информацией о словах:
 
 | Питчи                       | Распространенность                                  |
-|-----------------------------|-----------------------------------------------------|
+| --------------------------- | --------------------------------------------------- |
 | Показывает питч акцент слов | Показывают рейтинг по распространенности в корпусе. |
-| ![](/imgvid/pitch.png) | ![](/imgvid/frequency.png)                 |
+| ![](/imgvid/pitch.png)      | ![](/imgvid/frequency.png)                          |
 | アクセント辞典              | JPDB, Wikipedia, Netflix, Youtube                   |
 
 И как исключение, есть **JMedict** с именами и названиями, его тоже стоит установить. Другие варианты в архиве также хорошие, можете их попробовать. Важно! **大辞林** имеет картинки и состоит из 2 архивов, скачивать нужно оба. Также, на диске находится файл `Yomichan-settings` и архив со шрифтами, их тоже скачайте. (Шрифты необязательно, но их можно установить сразу и это быстро)
@@ -85,7 +78,7 @@ redirectFrom: /yomitan.html
 
 ## Настройки
 
-Теперь нужно промотать вниз до **Import settings** и загрузить `Yomichan-settings.json`.  Игнорируйте ошибку, нажимайте на красную кнопку **Import**.
+Теперь нужно промотать вниз до **Import settings** и загрузить `Yomichan-settings.json`. Игнорируйте ошибку, нажимайте на красную кнопку **Import**.
 
 Если вы на **Android**, сразу после импорта, в самом верху настроек нужно `Default Profile` и `Editing Profile` изменить с **ПК** на **Android**.
 
@@ -102,9 +95,3 @@ redirectFrom: /yomitan.html
 Теперь вы можете смотреть значения слов по наведению и нажатию **Shift** или **Колесика мыши** и ПОТОМ наведения на слово. Попробуйте! **日本語**. Размер окошка можно менять как любое окно, потянув за правый-нижний угол.
 
 Если все сделали правильно, при нажатии на зеленый плюсик у вас должна замайниться карточка и появиться в вашей колоде (Anki должен быть запущен).
-
-
-
-
-
-

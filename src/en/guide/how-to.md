@@ -1,16 +1,15 @@
 ---
-
 Author:
 title: Japanese with ease
 shortTitle: For beginners
 description: How to start learning japanese effectively and with fun.
 
-category: 
- - guide
+category:
+  - guide
 tag:
- - must-have
- - for beginners
-Date: 
+  - must-have
+  - for beginners
+Date:
 ReadingTime: 10
 ---
 
@@ -18,7 +17,7 @@ If you want to contribute to the development of the site, have ideas for new art
 
 ## Why are you here?
 
-Please, don't be lazy, don't read between the lines. Especially guides about software. 
+Please, don't be lazy, don't read between the lines. Especially guides about software.
 
 This guide is written for people who primarily want to learn to understand the Japanese language in any form: writing, speech, it doesn't matter. If you want to watch anime and understand everything without English subtitles, read raw manga, watch Japanese YouTube or listen to Japanese music, you've come to the right place. If your main goal is to become a translator/linguist/pass the JLPT within a certain period/learn to speak in 30 days - there may be arguments why this approach is not the best. This guide is written for people who want to perceive the real language and eventually learn to express themselves in it. This method is called immersion.
 
@@ -30,7 +29,7 @@ This approach tries to squeeze as much as possible out of consumption of Japanes
 
 <VidStack src="/imgvid/MPVdemo.mp4"/>
 
------
+---
 
 ### Core Principles
 
@@ -42,7 +41,7 @@ This approach tries to squeeze as much as possible out of consumption of Japanes
 
 > The average 6-year-old Spanish child has more information about the Spanish language in their head than in all the books about Spanish published in the last 200 years.
 
-  This doesn't mean that you shouldn't use any theoretical material for language learning at all; it means that you don't need to get carried away in them, hoping to perfectly understand the language. Nobody ever did and you won't too.
+This doesn't mean that you shouldn't use any theoretical material for language learning at all; it means that you don't need to get carried away in them, hoping to perfectly understand the language. Nobody ever did and you won't too.
 
 - Interaction with the language occurs mainly in two forms: **Input** (e.g., listening, reading) and **Output** (e.g., speaking, writing). In the beginning (and as long as you can), you should spend time only on **Input**, because **Output** comes mostly by itself and doesn't help you to understand the language. "What is this nonsense?" - you might ask, but that's how it is. After thousands of hours media consumption in a new language, your brain subconsciously adapts to the structures of the new language and begins to understand how, what, and when to speak. At the same time, this will be much more natural than what textbooks or universities force you to pull out of yourself in the early stages of learning. Of course, you will still need to practice speech to speak fluently, but it will be a relatively easy and smooth process with enough input behind you. If you need to learn to speak as quickly as possible, you can try speaking from the very first day, but it will be much more difficult and there is a high risk of developing bad habits.
 
@@ -52,13 +51,13 @@ This approach tries to squeeze as much as possible out of consumption of Japanes
 
 > "input hypothesis": according to it, learners improve their knowledge of the language when they understand language input that is slightly beyond their current level. Krashen called this input level "i+1", where "i" meant language input and "+1" meant the next stage of language acquisition.
 
-Simply put, **i+1** is when in a given sentence, only one language unit (word/grammar/something else) is unknown to you. For example, you probably understand what "I am eating a sandwich" means in English - it's a completely understandable sentence. But if you encounter "I am eating natto", this would be an **i+1** sentence (assuming you don't know what onigiri is, but this is just an example). The more sentences you encounter that are **i+1**, the more productive the learning process is. And on this example it's obvious why **i+1** is so good, form the context you can deduct yourself that an "natto" is probably a food!  
+Simply put, **i+1** is when in a given sentence, only one language unit (word/grammar/something else) is unknown to you. For example, you probably understand what "I am eating a sandwich" means in English - it's a completely understandable sentence. But if you encounter "I am eating natto", this would be an **i+1** sentence (assuming you don't know what onigiri is, but this is just an example). The more sentences you encounter that are **i+1**, the more productive the learning process is. And on this example it's obvious why **i+1** is so good, form the context you can deduct yourself that an "natto" is probably a food!
 
 ![](/imgvid/i11.jpg)
 
 - Japanese should become a part of your life, but it should not overwhelm you. Flashcards require regular practice, and irregularity severely impacts their effectiveness, so effort and discipline will be required here more than anywhere else. But apart from that, try to have as much fun as possible - just in Japanese! Listen to podcasts while exercising or cleaning, watch YouTube or anime on your commute, read a light novel before bed. Study 4 times for 15 minutes during the day - that's already an hour of Japanese you could have missed.
 
-- There are no people who "simply don't have a predisposition to languages" or for whom "this method doesn't suit". This excuse is usually used by people to justify the time spent in textbooks. Humans as a species evolved to understand and decipher languages. There is no need to even raise the question of "visual" or "auditory" memory - this is just pseudoscience and has nothing to do with language. You were born a human and learned your native tongue through immersion. Yes, the process of learning a second language differs from what happens when an adult learns a second language, but this is a false dichotomy. It may have both differences and similarities, and this has been proven in various scientific studies. Many mechanisms of language learning engaged in kids are active in adults.  
+- There are no people who "simply don't have a predisposition to languages" or for whom "this method doesn't suit". This excuse is usually used by people to justify the time spent in textbooks. Humans as a species evolved to understand and decipher languages. There is no need to even raise the question of "visual" or "auditory" memory - this is just pseudoscience and has nothing to do with language. You were born a human and learned your native tongue through immersion. Yes, the process of learning a second language differs from what happens when an adult learns a second language, but this is a false dichotomy. It may have both differences and similarities, and this has been proven in various scientific studies. Many mechanisms of language learning engaged in kids are active in adults.
 
 - Flashcards are the best way to "artificially" interact with a language. You don't have to make them at all if it's TOO difficult for you (and I mean mentally and only for a small minority of people, you probably can), but they really help you remember new words fast and not forget old ones, which is useful both in the early stages when every word is very important for understanding, and in the later stages when rare words occur too rarely for effective memorization. Ideally, they simulate the consumption of a word in a real language: you see a word - you try to understand it. If you understood, move on; if you forgot it, look in the dictionary. Flashcards allow you to systematize the appearance of words in front of your eyes, which helps you remember them with the least amount of time interacting with them. Of course, they will not replace real language, so this is only an additional practice and it should only take up a small part of your overall interaction with Japanese.
 
@@ -72,7 +71,7 @@ Simply put, **i+1** is when in a given sentence, only one language unit (word/gr
 
   - You should consume media with audio first, and start reading later, because of something called "subvocalization". Basically, it's when you "voice" words inside your head. If you start reading too early, your subvocalization will use incorrect sounds (as weird as it sounds) and it will impact your accent. Of course, if you don't care about your accent, it doesn't matter.
 
-**"But everyone always just learns from textbooks. What is this bullsh*t?"**
+**"But everyone always just learns from textbooks. What is this bullsh\*t?"**
 The norm does not mean good. In recent years, language learning through immersion has been gaining momentum, as more and more academics are starting to talk about it. For example, [Steven Krashen](https://en.wikipedia.org/wiki/Stephen_Krashen) - a linguist who talked about the input method of learning in the 1970s, as well as [Steve Kaufmann](https://en.wikipedia.org/wiki/Steve_Kaufmann), a great polyglot, speaks precisely about this approach. And in general, the online language learning community (mostly English-speaking) is currently using this approach en masse, as people, after trying it, realize that it really is more fun and effective. In other countries and especially academia this approach is still not very popular, which is why this site was created to help explain and popularize this method.
 
 ### How to Start Learning Japanese
@@ -85,8 +84,6 @@ First of all, you need to learn Hiragana and Katakana. These are two syllabaries
 ::: danger DO NOT USE TRANSLITERATION
 It's hard to imagine a worse beginner's mistake. The Japanese sound system is very different from English and probably from almost any other language, so writing words in English letters will cause false associations and lead to mistakes. Do not use materials with transliteration - this is a red flag. Learn the Kana first.
 :::
-
-
 
 #### Sound System
 
@@ -162,7 +159,7 @@ When you mine words, no matter which program or service you use, try to learn th
 
 **How to Learn**
 
-First of all, you need to choose the program that suits you better. On this website the information will be mainly aimed at using **Anki**, since it is free, has the most features and compatibility with other apps, as well as community support. 
+First of all, you need to choose the program that suits you better. On this website the information will be mainly aimed at using **Anki**, since it is free, has the most features and compatibility with other apps, as well as community support.
 
 [Anki](/software/anki.md) - most features, most configurable, many addons, harder to use.
 
@@ -200,16 +197,16 @@ Before installing anything, including **Anki**, be sure to read the [introductio
 
 - **Mokuro** - a program that scans manga and displays text over the images, which can be read using **Yomitan**.
 
-- **Cloe** - an on-the-fly OCR program. 
+- **Cloe** - an on-the-fly OCR program.
 
-- **Textractor** - a program for extracting text from visual novels so that it can be looked up using **Yomitan\JL** and flashcards can be made. There are also some alternatives, more details in the article on VNs (/software/vn.md). **Agent** is an alternative for some apps that are not compatible. 
+- **Textractor** - a program for extracting text from visual novels so that it can be looked up using **Yomitan\JL** and flashcards can be made. There are also some alternatives, more details in the article on VNs (/software/vn.md). **Agent** is an alternative for some apps that are not compatible.
 
 - **Yomininja** - when nothing else works with a videogame of your choice this is your last option.
 
 - **[Ttsu Reader](https://reader.ttsu.app/)** - the most convenient reader for `.Epub` books, works through the browser, allows to use **Yomitan**.
 
 - **[Ten10](https://apps.apple.com/us/app/10ten-japanese-reader/id1573540634) [iOS]** - a "plugin" for Safari that allows you to look up words.
-- **Jidoujisho [A]** - an all-in-one Android app that allows you to look up words with a popup dictionary in the web\YouTube\any downloaded video and mine cards from it. An insanely good app. 
+- **Jidoujisho [A]** - an all-in-one Android app that allows you to look up words with a popup dictionary in the web\YouTube\any downloaded video and mine cards from it. An insanely good app.
 
 With the software above, you can use other resources to find content easy enough for you to enjoy.
 
@@ -219,7 +216,7 @@ The most difficult thing in the beginning is finding something you can actually 
 
 Don't read at first, but don't forget about it.
 
- Reading allows you to consume much more language per unit of time than listening, so the more you read, the more effectively you learn. For starters, manga may be the optimal option, try different media, different styles, different genres, everything until you find something interesting. Ideally, maintain a balance of reading and listening, but of course, something will interest you more, something less, so try not to completely neglect any part of the language.
+Reading allows you to consume much more language per unit of time than listening, so the more you read, the more effectively you learn. For starters, manga may be the optimal option, try different media, different styles, different genres, everything until you find something interesting. Ideally, maintain a balance of reading and listening, but of course, something will interest you more, something less, so try not to completely neglect any part of the language.
 
 Try to fill all your free time with Japanese. 4 intervals of 15 minutes during the day that you would have wasted on VK - that's an hour of Japanese you missed. Over a year, that's 365 hours of Japanese. Maybe even enough for JLPT N5. Put podcasts or Condensed Audio in the background of other tasks. It's not full immersion, but it's better than nothing. MUSIC won't work! Maybe only if the singer has a very clear voice and you also have the words in front of you.
 
@@ -291,11 +288,11 @@ Also, you may have questions about studying the language. You can always contact
 
 [Goo](https://dictionary.goo.ne.jp/) - яп-яп, очень большой и полезный словарь.
 
-[Kotobank](https://kotobank.jp/)- Японский словарь-энциклопедия 
+[Kotobank](https://kotobank.jp/)- Японский словарь-энциклопедия
 
 ### Вас может заинтересовать
 
-Я веду телеграм канал [Я СХОЖУ С УМА НА ЯПОНСКОМ](https://t.me/kurutteiru) о том, как я учу по 100-200 слов в день уже год, пощу интересные вещи, там же можно связаться со мной, сообщить об ошибке, предложить дополнения. Оцените! 
+Я веду телеграм канал [Я СХОЖУ С УМА НА ЯПОНСКОМ](https://t.me/kurutteiru) о том, как я учу по 100-200 слов в день уже год, пощу интересные вещи, там же можно связаться со мной, сообщить об ошибке, предложить дополнения. Оцените!
 
 Наш [чат флудилка](https://t.me/+QCZrhciqM2JmOTIy)
 
@@ -305,7 +302,7 @@ Also, you may have questions about studying the language. You can always contact
 
 ![Что вы видите](/imgvid/whatusee.png)
 
-Что вы видите тут:  直? Иероглиф должен выглядеть как тот, что на картинке слева. Если же он выглядит как иероглиф справа - у вас отображаются китайские шрифты.
+Что вы видите тут: 直? Иероглиф должен выглядеть как тот, что на картинке слева. Если же он выглядит как иероглиф справа - у вас отображаются китайские шрифты.
 
 <details>
 <summary>Как изменить шрифты</summary>
@@ -318,7 +315,6 @@ Also, you may have questions about studying the language. You can always contact
 
 ![Что вы видите](/imgvid/font2.png)
 
-
 **Windows**
 
 Проще всего просто установить японскую раскладку и всё.
@@ -327,11 +323,11 @@ Also, you may have questions about studying the language. You can always contact
 
 Выбрать японский язык как предпочитаемый в настройках Языка и Региона.
 
-**Android** 
+**Android**
 
 выставите японский как второй язык по приоритету.
 
-**iOS** 
+**iOS**
 
 Добавьте японскую клавиатуру
 
@@ -343,7 +339,7 @@ Also, you may have questions about studying the language. You can always contact
  font-family: НАЗВАНИЕШРИФТА; 
 }`
 
-например можно скачать шриФт [IPAex Gothic](https://moji.or.jp/wp-content/ipafont/IPAexfont/ipaexg00401.zip), установить его, и в настройках стилей вписать 
+например можно скачать шриФт [IPAex Gothic](https://moji.or.jp/wp-content/ipafont/IPAexfont/ipaexg00401.zip), установить его, и в настройках стилей вписать
 
 `.card {
  font-family: IPAexGothic; 
@@ -358,7 +354,6 @@ Android: `/storage/emulated/0/AnkiDroid/collection.media`
 
 И изменить соответствующие шрифты в настройках стилей.
 
-
 </details>
 
 **Клавиатура и ввод**
@@ -369,7 +364,6 @@ Android: `/storage/emulated/0/AnkiDroid/collection.media`
 
 На Android, [Gborad](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin&hl=en) от Google является самым распространённым и полноценным вариантом. У вас предстоит выбор - использовать набор свайпами из 12 кнопок, или писать ромадзи. Так как большинство японцев предпочитают писать свайпами, я бы настоял на этом варианте, но это не критично.
 
------ 
+---
+
 Теперь вы полностью готовы в изучению японского и все зависит лишь от вас. Помните, учеба языка - это на долго. Прогресс будет быстрым только сначала. Получайте максимальное удовольствие из процесса и тогда вы не просто не бросите, вам не захочется бросать японский.
-
-
