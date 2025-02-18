@@ -24,7 +24,7 @@ highlights:
     image: https://i.imgur.com/7Ht8exd.png
     bgImage: https://i.imgur.com/A3OyE2s.png
     bgImageDark: https://i.imgur.com/9FgrzLm.jpg
-    highlights: 
+    highlights:
       - title: Is made for people who don't want to spend to much time tinkering with apps.
       - title: Is in English AND Russian languages!
 
@@ -77,7 +77,6 @@ highlights:
         details: Learn how to download VNs and extract text from them.
         link: https://kotowari.ru/software/vn.html
 
-
       - title: ActivityWatch
         icon: /ico/aw.png
         details: Track your time on PC.
@@ -88,20 +87,15 @@ highlights:
         details: Software for scanning text from the screen.
         link: https://kotowari.ru/software/ocr-tools.html
 
-
       - title: jidoujisho
         icon: /ico/jidoujisho.png
         details: Almighty Android app allows you to read, watch, play and whatever else with words lookup and mining.
         link: https://kotowari.ru/software/jidoujisho.html
 
-
       - title: Resources
         icon: /assets/image/box.svg
         details: A collection of all kinds of sources for Japanese media and language information.
         link: https://kotowari.ru/resources.html
-
-
-
 
   - header: wokring on it
     description: uhhh
@@ -113,7 +107,6 @@ highlights:
         icon: object-group
         details: asdasasd
         link: http://localhost:8080/
-
 
 copyright: false
 footer: MIT Licensed, Copyright © 2024-present NeonGooRoo

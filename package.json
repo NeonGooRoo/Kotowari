@@ -8,11 +8,14 @@
     "docs:build": "vuepress-vite build src",
     "docs:clean-dev": "vuepress-vite dev src --clean-cache",
     "docs:dev": "vuepress-vite dev src",
-    "docs:update-package": "npx vp-update"
+    "docs:update-package": "npx vp-update",
+    "prepare": "husky"
   },
   "devDependencies": {
     "@vuepress/bundler-vite": "2.0.0-rc.18",
     "@vuepress/plugin-google-analytics": "^2.0.0-rc.63",
+    "husky": "^9.1.7",
+    "prettier": "^3.5.1",
     "sass-embedded": "^1.79.5",
     "vidstack": "^1.12.12",
     "vue": "^3.5.12",

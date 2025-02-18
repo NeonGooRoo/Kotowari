@@ -1,31 +1,25 @@
 ---
-
 title: Ресурсы
 shortTitle: Ресурсы
 description: Источники информации и контента для японского и на японском языке.
 category: ресурсы
-Date: 
-ReadingTime: 
+Date:
+ReadingTime:
 ---
-
 
 Для вопросов, заявок и общения на тему японского языка пишите в наш [ТГ канал](https://t.me/dekitaidan)
 
 Всевозможные источники контента на японском. Если у вас есть предложения - сообщите мне через [ТГ](https://t.me/kurutteiru) или [GitHub](https://github.com/NeonGooRoo/kotowari). Советую прочитать все, тут могут быть вещи, о которых вы даже и не догадывались.
 
------
-
- 
-
-
+---
 
 # Прочие гайды и источники информации
 
-[TheMoeWay](https://learnjapanese.moe/)  [E] - самый распространенный и полноценный гайд на данный момент.
+[TheMoeWay](https://learnjapanese.moe/) [E] - самый распространенный и полноценный гайд на данный момент.
 
 [Lazy Guide](https://xelieu.github.io/jp-lazy-guide/) [E] - очень хороший сетап для Анки майнинга Аниме, ВН, Манги, текста на автомате. Более красивого и полноценного гайда не видел.
 
-[Jo Mako's Guide](https://sites.google.com/view/jo-mako/home)[E] -  Много полезной инфы, особенно для "углубленного" использования Anki, подсчитывания знакомых слов, подбора контента по сложности и т.п.
+[Jo Mako's Guide](https://sites.google.com/view/jo-mako/home)[E] - Много полезной инфы, особенно для "углубленного" использования Anki, подсчитывания знакомых слов, подбора контента по сложности и т.п.
 
 [日本 Resources](https://docs.google.com/spreadsheets/d/1O5ZtAMPoMA8cl15oSc_E3LBODEKhC2-fmTKwoSiHaTk/edit#gid=2089349054) - рандомный список ресурсов, довольно старый, но может есть что-то полезное.
 
@@ -63,7 +57,7 @@ ReadingTime:
 
 [Glosbe](https://glosbe.com/) - словарь с переводами предложений, поддерживаемый сообществом.
 
-[weblio](https://ejje.weblio.jp/)**[E]** - JP-EN словарь с примерами. 
+[weblio](https://ejje.weblio.jp/)**[E]** - JP-EN словарь с примерами.
 
 [Reverso](https://context.reverso.net/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4/) - примеры слова в предложениях и переводами предложений.
 
@@ -77,23 +71,23 @@ ReadingTime:
 
 ## Грамматика
 
-[Гайд Тае Кима](https://vandal.sdf-eu.org/JapaneseGuide/index.html) - самый распространенный гайд, лучший вариант для начинающих, но очень короткий. Есть некоторые неточности и странные интерпретации, но от этого не убежишь. 
+[Гайд Тае Кима](https://vandal.sdf-eu.org/JapaneseGuide/index.html) - самый распространенный гайд, лучший вариант для начинающих, но очень короткий. Есть некоторые неточности и странные интерпретации, но от этого не убежишь.
 
 [Tae Kim's Guide](https://ankiweb.net/shared/info/911122782) (Anki) [E] - большая часть гайда выше, но в форме флешкарточек, я сам с нее начинал. Также там исправлены некоторые неточности оригинального гайда.
 
-[IMABI](https://imabi.org/) [E] - проект для начинающих, который считается более хорошим и глубоким чем Тае Ким 
+[IMABI](https://imabi.org/) [E] - проект для начинающих, который считается более хорошим и глубоким чем Тае Ким
 
 [Nippon Gatari](http://www.nippon-gatari.info/) - склад грамматики, распределён по уровням. Если вы не знаете англ - единственный хороший вариант, о котором я знаю, довольно много инфы
 
 [Mainichi Nonbiri](https://mainichi-nonbiri.com/) - сайт полностью на японском, много информации и грамматики по уровням JLPT
 
-[Cure Dolly’s Organic Japanese](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)  [E] - Очень хороший гайд, показывающий грамматику под совсем другим углом. Как по мне, огромное количество вещей там объяснено просто офигенно понятно и логично. Главный минус - качество аудио ужасное.
+[Cure Dolly’s Organic Japanese](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) [E] - Очень хороший гайд, показывающий грамматику под совсем другим углом. Как по мне, огромное количество вещей там объяснено просто офигенно понятно и логично. Главный минус - качество аудио ужасное.
 
-[Cure Dolly Complete Transcript](https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc/edit)  [E] - транскрипт видео выше, если кому-то легче читать или не нравится голос.
+[Cure Dolly Complete Transcript](https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc/edit) [E] - транскрипт видео выше, если кому-то легче читать или не нравится голос.
 
-[Organic Japanese with Cure Dolly](https://learnjapaneseonline.info/)  [E] - сайт Cure Dolly, много полезной информации. 
+[Organic Japanese with Cure Dolly](https://learnjapaneseonline.info/) [E] - сайт Cure Dolly, много полезной информации.
 
-[BunPro](https://bunpro.jp/grammar_points)  [E] - очень удобный сайт с японский
+[BunPro](https://bunpro.jp/grammar_points) [E] - очень удобный сайт с японский
 
 [Maggie Sensei](https://maggiesensei.com/) [E] - сайт с кучей грамматики и прочих приколов про яп
 
@@ -153,9 +147,9 @@ ReadingTime:
 
 [HiAnime](http://hianime.to/) - много аниме онлайн.
 
-[Crunchyroll](https://www.crunchyroll.com/) - аниме легально. 
+[Crunchyroll](https://www.crunchyroll.com/) - аниме легально.
 
-[Netflix](https://www.netflix.com/ge/) - есть японские сабы, не очень много аниме. Для доступа можно купить аккаунт за 100 рублей на интернет площадках типа Plati (https://plati.market/).  С японского VPN больше контента на японском.
+[Netflix](https://www.netflix.com/ge/) - есть японские сабы, не очень много аниме. Для доступа можно купить аккаунт за 100 рублей на интернет площадках типа Plati (https://plati.market/). С японского VPN больше контента на японском.
 
 ### Дорамы\Кино
 
@@ -164,13 +158,13 @@ ReadingTime:
 [Nyaa.si](https://nyaa.si/?q=&f=0&c=1_4) - можно найти некоторые дорамы и фильмы
 
 Netflix, Amazon Prime, Disney Plus - в основном западный контент. Есть официальный дубляж и субтитры (они часто не совпадают). С японского VPN больше контента на японском.
-Для доступа можно купить аккаунт за 100 рублей на интернет площадках типа Plati (https://plati.market/). 
+Для доступа можно купить аккаунт за 100 рублей на интернет площадках типа Plati (https://plati.market/).
 
 [Bagikuy](https://bagikuy.com/) - дорамы.
 
 [Rakuten Viki](https://www.viki.com/explore?country=japan&sort=all_time) - дорамы онлайн.
 
-[Crunchyroll](https://www.crunchyroll.com/) - немного дорам. 
+[Crunchyroll](https://www.crunchyroll.com/) - немного дорам.
 
 [Minidrama](https://minidrama.net/j-drama/) - MKV дорамы на скачку.
 
@@ -204,21 +198,21 @@ Netflix, Amazon Prime, Disney Plus - в основном западный кон
 
 [Klmanga](https://klmanga.com/index) - онлайн манга.
 
-[Mangareader.to](https://mangareader.to/) - онлайн манга. 
+[Mangareader.to](https://mangareader.to/) - онлайн манга.
 
 [Rawkuma](https://rawkuma.com/) - можно скачивать и читать онлайн.
 
 ### Литература
 
 [YomuJP](https://yomujp.com/) - адаптированные тексты
- 
+
 [Itazuraneko Extended Ebook Novel](https://yonde.itazuraneko.org/) - самая большая датабаза книг.
 
 [X3DL](https://x3dl.net/) - огромный японский сайт, манга и литература.
 
 [nyaa.si](http://nyaa.si/) - более распространенная литература, торрент, самый удобный поиск.
 
-[Boroboro](https://boroboro.neocities.org/listfullepub.html) - некоторых EPUB  нет на Itazuraneko.
+[Boroboro](https://boroboro.neocities.org/listfullepub.html) - некоторых EPUB нет на Itazuraneko.
 
 [Syosetsu Web Novels](https://yomou.syosetu.com/)- только веб новеллы.
 
@@ -258,7 +252,7 @@ Netflix, Amazon Prime, Disney Plus - в основном западный кон
 
 [Google Podcast](https://podcasts.google.com/?hl=ja) - японская версия сайта, сразу выскакивают рекомендации на японском.
 
-На различных платформах (например Spotify и YouTue) можно найти  **聴く anime**, что является чем-то похожем на CD драмы. Они легче, чем обычные подкасты.
+На различных платформах (например Spotify и YouTue) можно найти **聴く anime**, что является чем-то похожем на CD драмы. Они легче, чем обычные подкасты.
 
 # Может быть интересно
 
@@ -269,6 +263,3 @@ Netflix, Amazon Prime, Disney Plus - в основном западный кон
 [nihongoyopta](https://vk.com/nihongoyopta) - паблик о всяком японском.
 
 [Big in Japan](https://t.me/big_in_japan_youtube) - канал с видео на японском, у которых в ручную сделанные субтитры (не автоматические, то есть точные)
-
-
-

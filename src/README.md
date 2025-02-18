@@ -1,13 +1,13 @@
 ---
 home: true
 icon: home
-title: Японский язык с нуля! 
+title: Японский язык с нуля!
 heroImage: imgvid\rei.png
 bgImage: https://i.imgur.com/9kYEn98.png
 bgImageDark: https://i.imgur.com/xa4XJli.png
 bgImageStyle:
   background-attachment: fixed
-heroText: Японский язык - легко! 
+heroText: Японский язык - легко!
 tagline: Здесь можно найти всю информацию о том, как и почему нужно учить японский потребляя контент.
 description: Сайт об учебе японского эффективно и с удовольствием!
 actions:
@@ -24,7 +24,7 @@ highlights:
     image: https://i.imgur.com/7Ht8exd.png
     bgImage: https://i.imgur.com/nGFMTAt.png
     bgImageDark: https://i.imgur.com/ZF21XBk.png
-    highlights: 
+    highlights:
       - title: Полностью бесплатное пособие по изучению японского языка для новичков!
       - title: Содержит ссылки на источники на русском, русские словари, чаты и прочее.
 
@@ -77,7 +77,6 @@ highlights:
         details: Играть в игры\вн и вытаскивать текст из них для удобного майнинга.
         link: https://kotowari.ru/software/vn.html
 
-
       - title: ActivityWatch
         icon: /ico/aw.png
         details: Ведет учёт открытых программ.
@@ -88,12 +87,10 @@ highlights:
         details: Программы для сканирования текста с экрана.
         link: https://kotowari.ru/software/ocr-tools.html
 
-
       - title: jidoujisho 🚧
         icon: /ico/jidoujisho.png
         details: Всевозможная программа для Android, позволяет читать, смотреть, играть и все прочее подсматривая слова и майня.
         link: https://kotowari.ru/software/jidoujisho.html
-
 
       - title: Ресурсы
         icon: /assets/image/box.svg
@@ -113,10 +110,6 @@ highlights:
       - title: Японский язык | Immersion | Погружение | Kotowari
         details: Чатик
         link: https://t.me/dekitaidan
-
-
-
-
 
 copyright: false
 footer: MIT Licensed, Copyright © 2024-present NeonGooRoo

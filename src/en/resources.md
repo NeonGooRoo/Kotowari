@@ -3,13 +3,13 @@ title: Resources
 shortTitle: Resources
 description: Sources of information and content for and in Japanese.
 category: Resources
-Date: 
-ReadingTime: 
+Date:
+ReadingTime:
 ---
 
 All kinds of resources with content in or for Japanese. If you have any suggestions, inform me through [TG](https://t.me/kurutteiru) or [GitHub](https://github.com/neongooro/kotowari). I advise you to read everything, there may be interesting things for you.
 
------
+---
 
 ## Other guides and resources
 
@@ -17,9 +17,9 @@ All kinds of resources with content in or for Japanese. If you have any suggesti
 
 [TheMoeWay Resources Discord Channel](https://discord.com/channels/617136488840429598/778430038159655012) - a place where everyone can share.
 
-[Lazy Guide](https://xelieu.github.io/jp-lazy-guide/) - A very good setup for Anki mining, it massively inspired my website. 
+[Lazy Guide](https://xelieu.github.io/jp-lazy-guide/) - A very good setup for Anki mining, it massively inspired my website.
 
-[Jo Mako's Guide](https://sites.google.com/view/jo-mako/home) -  A lot of useful information, especially for the more advanced users of Anki, counting know words, selection of content by difficulty, etc.
+[Jo Mako's Guide](https://sites.google.com/view/jo-mako/home) - A lot of useful information, especially for the more advanced users of Anki, counting know words, selection of content by difficulty, etc.
 
 [日本 Resources](https://docs.google.com/spreadsheets/d/1O5ZtAMPoMA8cl15oSc_E3LBODEKhC2-fmTKwoSiHaTk/edit#gid=2089349054) - A random list of resources and is quite old, but there could be something useful.
 
@@ -51,7 +51,7 @@ All kinds of resources with content in or for Japanese. If you have any suggesti
 
 [Glosbe](https://glosbe.com/) - Dictionary with translations of sentences made by the community.
 
-[weblio](https://ejje.weblio.jp/) - A huge bilingual dictionary with examples. 
+[weblio](https://ejje.weblio.jp/) - A huge bilingual dictionary with examples.
 
 [Reverso](https://context.reverso.net/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4/) - Examples of the word in sentences and translations of sentences.
 
@@ -65,7 +65,6 @@ AI chat bots are also able to translate and explain some things, but imperfect.
 
 ### Grammar
 
-
 [IMABI](https://imabi.org/) - A modern alternative for Tae Kim's guide, it is probably a better option.
 
 [Tae kim's Guide](https://guidetojapanese.org/learn/) - The most popular guide, was the best option for beginners, but very short. There are some inaccuracies and strange interpretations, but you will see people talk about it everywhere.
@@ -76,11 +75,11 @@ AI chat bots are also able to translate and explain some things, but imperfect.
 
 [Cure Dolly’s Organic Japanese](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) - A very good guide showing Japanese grammar from a completely different perspective. Personally, a huge number of things there are explained in a way that just makes sense. The only downside is the quality of the audio.
 
-[Cure Dolly Complete Transcript](https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc/edit)  - Transcript of the videos above, if it is easier to read or you dislike her voice.
+[Cure Dolly Complete Transcript](https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc/edit) - Transcript of the videos above, if it is easier to read or you dislike her voice.
 
-[Organic Japanese with Cure Dolly](https://learnjapaneseonline.info/)  - Cure Dolly's website, lots of good info. 
+[Organic Japanese with Cure Dolly](https://learnjapaneseonline.info/) - Cure Dolly's website, lots of good info.
 
-[BunPro](https://bunpro.jp/grammar_points)  - A very convenient tool for learning Grammar, has SRS for a subscription (SRS is not recommended)
+[BunPro](https://bunpro.jp/grammar_points) - A very convenient tool for learning Grammar, has SRS for a subscription (SRS is not recommended)
 
 [Maggie Sensei](https://maggiesensei.com/) - A website with a bunch of grammar info.
 
@@ -110,7 +109,7 @@ AI chat bots are also able to translate and explain some things, but imperfect.
 
 [JPDB.io](https://jpdb.io/prebuilt_decks) - A bunch of different media rated by difficulty, but difficulty is measured only in terms of vocabulary. Also, the algorithm has a strong bias to shorter works, but there are a bunch of settings.
 
-### Video 
+### Video
 
 #### Subtitles
 
@@ -152,7 +151,7 @@ AI chat bots are also able to translate and explain some things, but imperfect.
 
 [Rakuten Viki](https://www.viki.com/explore?country=japan&sort=all_time) - drama online.
 
-[Crunchyroll](https://www.crunchyroll.com/) - has some drama. 
+[Crunchyroll](https://www.crunchyroll.com/) - has some drama.
 
 [Minidrama](https://minidrama.net/j-drama/) - download MKV dramas.
 
@@ -180,7 +179,7 @@ Further options are for RAW manga, in which to lookup words you need to use OCR 
 
 [nyaa.si](http://nyaa.si/) - A lot of manga torrent.
 
-[Hakuneko Manga Downloader](https://hakuneko.download/) - Can be downloaded in Japanese with  tags `raw` and`japanese` 
+[Hakuneko Manga Downloader](https://hakuneko.download/) - Can be downloaded in Japanese with tags `raw` and`japanese` 
 
 [Klmanga](https://klmanga.com/index) - Manga online.
 
@@ -191,12 +190,12 @@ Further options are for RAW manga, in which to lookup words you need to use OCR 
 #### Literature
 
 [YomuJP](https://yomujp.com/) - Texts for beginners.
- 
+
 [Itazuraneko Extended Ebook Novel](https://yonde.itazuraneko.org/) - The largest book database.
 
 [nyaa.si](http://nyaa.si/) - More common literature, torrent, the most convenient option.
 
-[Boroboro](https://boroboro.neocities.org/listfullepub.html) - some EPUB  are not on **Itazuraneko**.
+[Boroboro](https://boroboro.neocities.org/listfullepub.html) - some EPUB are not on **Itazuraneko**.
 
 [Syosetsu Web Novels](https://yomou.syosetu.com/)- Only web novels.
 
@@ -246,13 +245,6 @@ On platforms like YouTube or Spotify you can search for **聴く anime** and fin
 
 [Audiobook Collection](https://onedrive.live.com/?authkey=%21ACiYIpTlxCBAtvU&id=12E15D07EB9B7E28%212087&cid=12E15D07EB9B7E28) - Some audiobooks
 
-
-
-
-
 ## May be interesting
 
 [Я СХОЖУ С УМА НА ЯПОНСКОМ](https://t.me/kurutteiru) - My telegram canal about progress and whatever.
-
-
-
