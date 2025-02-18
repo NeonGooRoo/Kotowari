@@ -3,7 +3,7 @@ Author:
 title: MPV
 shortTitle: MPV
 description: Установка, настройка и использованиe MPV плеера.
-icon: "/ico/mpv-icon.png"
+icon: '/ico/mpv-icon.png'
 category:
   - инструменты
 tag:

@@ -1,11 +1,11 @@
 // you can change colors here
 $theme-color: #00c0ce;
 $bg-color: (
-    light: #fff,
-    dark: #222222,
-  );
+  light: #fff,
+  dark: #222222,
+);
 
-$font-family-heading: "Raleway";
+$font-family-heading: 'Raleway';
 
 #main-description {
   max-width: 35rem;
@@ -26,7 +26,7 @@ $vp-c-text: (
   --vp-c-text-mute: #363642; /* Default for light theme */
 }
 
-[data-theme="dark"] {
+[data-theme='dark'] {
   --vp-c-text-mute: #a8a8a8; /* Muted color for dark theme */
 }
 
